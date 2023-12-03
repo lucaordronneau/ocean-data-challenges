@@ -13,3 +13,6 @@
 [submodule "odc-nft-pa"]
 	path = odc-nft-pa
 	url = https://github.com/lucaordronneau/odc-nft-pa
+[submodule "odc-db-real-estate"]
+	path = odc-db-real-estate
+	url = https://github.com/lucaordronneau/odc-db-real-estate

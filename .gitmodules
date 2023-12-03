@@ -1,3 +1,18 @@
 [submodule "odc-aqc"]
 	path = odc-aqc
 	url = https://github.com/lucaordronneau/odc-aqc
+[submodule "odc-dcs"]
+	path = odc-dcs
+	url = https://github.com/lucaordronneau/odc-dcs
+[submodule "odc-tsa"]
+	path = odc-tsa
+	url = https://github.com/lucaordronneau/odc-tsa
+[submodule "odc-db-real-estate"]
+	path = odc-db-real-estate
+	url = https://github.com/lucaordronneau/odc-db-real-estate
+[submodule "odc-lps-dex"]
+	path = odc-lps-dex
+	url = https://github.com/lucaordronneau/odc-lps-dex
+[submodule "odc-nft-pa"]
+	path = odc-nft-pa
+	url = https://github.com/lucaordronneau/odc-nft-pa

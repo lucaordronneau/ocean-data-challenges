@@ -1,16 +1,16 @@
-[submodule "odc-aqc"]
+[submodule "odc-air-quality-catalonia"]
 	path = odc-aqc
 	url = https://github.com/lucaordronneau/odc-aqc
-[submodule "odc-dcs"]
+[submodule "odc-dougs-cars-scores"]
 	path = odc-dcs
 	url = https://github.com/lucaordronneau/odc-dcs
-[submodule "odc-tsa"]
+[submodule "odc-token-sentiment-analysis"]
 	path = odc-tsa
 	url = https://github.com/lucaordronneau/odc-tsa
-[submodule "odc-lps-dex"]
+[submodule "odc-liquidity-provision-strategy-dex"]
 	path = odc-lps-dex
 	url = https://github.com/lucaordronneau/odc-lps-dex
-[submodule "odc-nft-pa"]
+[submodule "odc-nft-price-analysis"]
 	path = odc-nft-pa
 	url = https://github.com/lucaordronneau/odc-nft-pa
 [submodule "odc-db-real-estate"]

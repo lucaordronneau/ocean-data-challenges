@@ -1,18 +1,3 @@
-[submodule "odc-air-quality-catalonia"]
-	path = odc-air-quality-catalonia
-	url = https://github.com/lucaordronneau/odc-air-quality-catalonia
-[submodule "odc-dougs-cars-scores"]
-	path = odc-dougs-cars-scores
-	url = https://github.com/lucaordronneau/odc-dougs-cars-scores
-[submodule "odc-token-sentiment-analysis"]
-	path = odc-token-sentiment-analysis
-	url = https://github.com/lucaordronneau/odc-liquidity-provision-strategy-dex
-[submodule "odc-liquidity-provision-strategy-dex"]
-	path = odc-liquidity-provision-strategy-dex
-	url = https://github.com/lucaordronneau/odc-lps-dex
-[submodule "odc-nft-price-analysis"]
-	path = odc-nft-price-analysis
-	url = https://github.com/lucaordronneau/odc-nft-price-analysis
 [submodule "odc-db-real-estate"]
 	path = odc-db-real-estate
 	url = https://github.com/lucaordronneau/odc-db-real-estate
